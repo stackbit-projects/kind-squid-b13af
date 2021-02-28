@@ -72,5 +72,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://kind-squid-b13af.netlify.app"
 }
